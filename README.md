@@ -1,0 +1,1 @@
+# diamnod-pattern-java
